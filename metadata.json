@@ -1,0 +1,7 @@
+{
+  "name": "MoodFlip AI & Library",
+  "description": "Mood-flipping AI that transforms your emotional state through actionable solutions, curated Spotify tracks, and a 100-book curated library.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
